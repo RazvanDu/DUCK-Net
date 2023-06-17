@@ -31,10 +31,6 @@ pip install -r requirements.txt
 
 The project can be run using Jupyter Notebook on the file ```ModelNotebook.ipynb```.
 
-## Pre-trained weights
-
-Several pre-trained weights for the model can be found on here on Google Drive.
-
 ## Data-Sets
 
 The randomly split datasets we tested the models on are publicly available [here](https://drive.google.com/drive/folders/1kg9XImzrd9PpTtleQSz6l8uq82LV1sjV?usp=share_link). 
@@ -138,6 +134,10 @@ Standard Deviation (between methods) | 0.1285 | 0.1516 | 0.2121 | 0.0944 | 0.069
 An example of qualitative results can be seen below:
 
 ![Qualitative Results](QualitativeResults.png)
+
+## Model weights
+
+The weights for the models that achieved the final results can be found on [here](https://drive.google.com/drive/folders/1i2-YizsmycWd47rxVMrfZ3GraEA64SDU?usp=sharing) on Google Drive.
 
 ## Citation
 
