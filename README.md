@@ -121,3 +121,9 @@ FCN-Transformer (pre-trained) | **0.8800** | **0.7858** | **0.9659** | 0.8082 | 
 OURS (no pre-training, 17 filters) | 0.7525 | 0.6032 | 0.6873 | 0.8314 | 0.9119
 OURS (no pre-training, 34 filters) | 0.8251 | 0.7023 | 0.7740 | **0.8834** | 0.9396
 Standard Deviation (between methods) | 0.1285 | 0.1516 | 0.2121 | 0.0944 | 0.0698
+
+## Qualitative Results
+
+An example of qualitative results can be seen below:
+
+![Qualitative Results](QualitativeResults.png)
