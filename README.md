@@ -7,7 +7,7 @@
 
 Authors: [Razvan-Gabriel Dumitru](mailto:razvandumm@gmail.com?subject=[GitHub]DUCK-Net), [Darius Peteleaza](mailto:peteleaza.darius@gmail.com?subject=[GitHub]DUCK-Net) & [Catalin Craciun](mailto:craciun.catalin.c@gmail.com?subject=[GitHub]DUCK-Net)
 
-
+If you wish to contact any of us for any reason, please use the above click-able email links.
 
 The paper was published in Nature Scientific Reports in ```16 June 2023```.
 
