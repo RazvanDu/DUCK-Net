@@ -9,7 +9,7 @@ Authors: [Razvan-Gabriel Dumitru](mailto:razvandumm@gmail.com?subject=[GitHub]DU
 
 If you wish to contact any of us for any reason, please use the above click-able email links.
 
-The paper was published in Nature Scientific Reports in 16 June 2023.
+The paper was published in Nature Scientific Reports in ```16 June 2023```.
 
 The detailed paper can be found at https://www.nature.com/articles/s41598-023-36940-5. Please cite our work if you use it.
 
