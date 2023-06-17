@@ -6,7 +6,7 @@ The paper was published in Nature Scientific Reports in 16 June 2023.
 
 The detailed paper can be found at https://www.nature.com/articles/s41598-023-36940-5. Please cite our work if you use it.
 
-## DUCK-NET Architecture
+## DUCK-Net Architecture
 
 ![Architecture](DUCK-Net.png)
 
