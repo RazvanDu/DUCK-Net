@@ -15,7 +15,13 @@ The detailed paper can be found at https://www.nature.com/articles/s41598-023-36
 
 ## DUCK-Net Architecture
 
-![Architecture](DUCK-Net.png)
+![DUCK-Net](DUCK-Net.png)
+
+## DUCK-Block
+
+![DUCK-Block](DUCK-Block.png)
+
+A full description of all the components is available in our paper linked above.
 
 ## Installation
 
