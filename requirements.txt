@@ -1,5 +1,5 @@
 numpy==1.23.1
-tensorflow==2.9.1
+tensorflow==2.10.0
 scikit-learn==1.1.1
 albumentations==1.2.1
 opencv-python==4.6.0.66
