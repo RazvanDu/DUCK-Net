@@ -25,13 +25,18 @@ A full description of all the components is available in our paper linked above.
 
 ## Installation
 
-Our implementation has been tested and run on ```Python 3.10``` using the libraries from ```requirements.txt```.
+Our implementation has been tested and run on ```Python 3.10``` using the libraries from ```requirements.txt```. 
 
 To install the libraries you can run the command:
 
 ```
 pip install -r requirements.txt
 ```
+
+NOTE: Technically you should be able to use slightly different versions for the libraries than the ones we used as long as they are compatible with one another. 
+
+We tested the model on machines with: Windows 10, Windows 11 and Linux Ubuntu 20.04 operating systems.
+We trained the model using both a NVIDIA RTX 3090 24GB VRAM and NVIDIA A100 40GB, so 24GB of VRAM should be enough to train the model.
 
 ## Running the project
 
