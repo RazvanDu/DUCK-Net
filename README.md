@@ -1,9 +1,9 @@
 # Using DUCK-Net for polyp image segmentation
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation/medical-image-segmentation-on-cvc-colondb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-colondb?p=using-duck-net-for-polyp-image-segmentation)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation/medical-image-segmentation-on-etis)](https://paperswithcode.com/sota/medical-image-segmentation-on-etis?p=using-duck-net-for-polyp-image-segmentation)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation/medical-image-segmentation-on-kvasir-seg)](https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir-seg?p=using-duck-net-for-polyp-image-segmentation)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation/medical-image-segmentation-on-cvc-clinicdb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-clinicdb?p=using-duck-net-for-polyp-image-segmentation)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-cvc-colondb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-colondb?p=using-duck-net-for-polyp-image-segmentation-1)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-etis)](https://paperswithcode.com/sota/medical-image-segmentation-on-etis?p=using-duck-net-for-polyp-image-segmentation-1)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-kvasir-seg)](https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir-seg?p=using-duck-net-for-polyp-image-segmentation-1)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-cvc-clinicdb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-clinicdb?p=using-duck-net-for-polyp-image-segmentation-1)
 
 Authors: [Razvan-Gabriel Dumitru](mailto:razvandumm@gmail.com?subject=[GitHub]DUCK-Net), [Darius Peteleaza](mailto:peteleaza.darius@gmail.com?subject=[GitHub]DUCK-Net) & [Catalin Craciun](mailto:craciun.catalin.c@gmail.com?subject=[GitHub]DUCK-Net)
 
