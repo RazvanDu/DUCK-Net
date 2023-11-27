@@ -44,7 +44,7 @@ The project can be run using Jupyter Notebook on the file ```ModelNotebook.ipynb
 
 ## Data-Sets
 
-The randomly split datasets we tested the models on are publicly available [here](https://drive.google.com/drive/folders/1kg9XImzrd9PpTtleQSz6l8uq82LV1sjV?usp=share_link). 
+The randomly split datasets we tested the models on are publicly available [here](https://drive.google.com/drive/folders/1kg9XImzrd9PpTtleQSz6l8uq82LV1sjV?usp=sharing). 
 
 The datasets used in this study are publicly available at: 
 - Kvasir-SEG: [here](https://datasets.simula.no/kvasir-seg/). 
